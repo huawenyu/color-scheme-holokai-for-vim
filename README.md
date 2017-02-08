@@ -8,18 +8,6 @@ I think Holokai is the best dark theme for VIM on Ubuntu GNOME terminal, which
 has a Ubuntu purple color background. Set it to a bit transparent would be
 more comfortable.
 
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/1.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/2.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/3.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/4.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/5.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/6.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/7.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/8.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/9.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/10.png)
-![screenshot](https://raw.githubusercontent.com/changyuheng/color-scheme-holokai-for-vim/master/screenshots/11.png)
-
 ## Installation
 Just copy the files to your .vim folder or use Vundle-like plug-in manager to
 do so.

@@ -138,7 +138,7 @@ if &t_Co > 255
     hi Folded           ctermfg=67  ctermbg=16
     hi Function         ctermfg=112
     hi Identifier       ctermfg=112             cterm=none
-    hi Ignore           ctermfg=244 ctermbg=232
+    hi Ignore           ctermfg=244
     hi IncSearch        ctermfg=75
 
     hi Keyword          ctermfg=220             cterm=bold
