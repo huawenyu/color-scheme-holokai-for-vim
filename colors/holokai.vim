@@ -138,7 +138,7 @@ if &t_Co > 255
     hi Folded           ctermfg=67  ctermbg=16
     hi Function         ctermfg=112
     hi Identifier       ctermfg=112             cterm=none
-    hi Ignore           ctermfg=244
+    hi Ignore           ctermfg=244 ctermbg=232
     hi IncSearch        ctermfg=75
 
     hi Keyword          ctermfg=220             cterm=bold
@@ -191,6 +191,8 @@ if &t_Co > 255
     hi CursorColumn                 ctermbg=232
     hi ColorColumn                  ctermbg=232
     hi LineNr           ctermfg=250 ctermbg=232
-    hi NonText          ctermfg=244
-    hi SpecialKey       ctermfg=244
+    " The 'NonText' highlighting will be used for 'eol', 'extends' and 'precedes'  
+    " The 'SpecialKey' for 'nbsp', 'tab' and 'trail'.
+    hi NonText          ctermfg=238
+    hi SpecialKey       ctermfg=238
 end
